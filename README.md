@@ -1,9 +1,10 @@
 # MailBot
 A JavaScript based code to bulk send mails using [NodeMailer](https://nodemailer.com/) and [Gmail API](https://developers.google.com/gmail/api/quickstart/nodejs)
 
+## STEPS
 
 Go to https://console.cloud.google.com/
-#
+
 > #### 1) Select "API AND SERVICES"
 + Click Enable API and services
 +  Search for "Gmail API" and enable
