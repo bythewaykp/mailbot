@@ -20,7 +20,7 @@ Go to https://console.cloud.google.com/
 + application type : Web Application
 + authorized redirect URI : https://developers.google.com/oauthplayground/
 #
-> #### 4) Download the JSON files, rename it as 'credentials.json' and put it in the root folder of the project
+> #### 4) Download the JSON file, rename it as 'credentials.json' and put it in the root folder of the project
 
 #
 
