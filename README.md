@@ -6,12 +6,12 @@ A JavaScript based code to bulk send mails using [NodeMailer](https://nodemailer
 Go to https://console.cloud.google.com/
 
 > #### 1) Select "API AND SERVICES"
-+ Click Enable API and services
++ Click 'Enable API and services'
 +  Search for "Gmail API" and enable
 #
 > #### 2)  Select "OAuth Consent Screen"
 + choose "External"
-+ add mail ids of test users (The app will only be usable by them since it is in development mode)
++ add mail ids of 'test users' (The app will only be usable by them since it is in development mode)
 #
 
 > #### 3) Select "CREDENTIALS"
@@ -21,7 +21,7 @@ Go to https://console.cloud.google.com/
 + set application type : Web Application
 + set authorized redirect URI : https://developers.google.com/oauthplayground/
 #
-> #### 4) Download the JSON file, rename it as 'credentials.json' and put it in the root folder of the project
+> #### 4) Download the JSON file, rename it as 'cred.json' and put it in the root folder of the project
 
 #
 
