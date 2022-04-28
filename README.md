@@ -18,8 +18,8 @@ Go to https://console.cloud.google.com/
 + click Create Credentials
 + choose OAuth2 Client ID
 
-+ application type : Web Application
-+ authorized redirect URI : https://developers.google.com/oauthplayground/
++ set application type : Web Application
++ set authorized redirect URI : https://developers.google.com/oauthplayground/
 #
 > #### 4) Download the JSON file, rename it as 'credentials.json' and put it in the root folder of the project
 
