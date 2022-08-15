@@ -27,3 +27,7 @@ Go to https://console.cloud.google.com/
 
 
 *NOTE : 'a.txt' contains the line seperated email ids of recepients*
+* sendmessage.js contains the contents of email (html, attachment, media etc)
+
+Run 'node main.js'
+
